@@ -1,8 +1,8 @@
 [build]
-publish = "html"
+publish = "dist"
 base = "/"
 
 [[redirects]]
 from = "/*"
-to = "html/index.html"
+to = "/html/index.html"
 status = 200
