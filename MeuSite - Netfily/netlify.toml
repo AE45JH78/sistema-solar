@@ -1,6 +1,5 @@
 [build]
-publish = "/html"
-base = "/"
+publish = "html"
 
 [[redirects]]
 from = "/*"
