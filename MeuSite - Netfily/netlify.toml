@@ -1,0 +1,8 @@
+[build]
+publish = "html"
+base = "/"
+
+[[redirects]]
+from = "*/"
+to = "/html/index.html
+status = "200"
