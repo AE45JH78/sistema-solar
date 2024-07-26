@@ -3,6 +3,6 @@ publish = "html"
 base = "/"
 
 [[redirects]]
-from = "*/"
-to = "/html/index.html
+from = "/*"
+to = "html/index.html"
 status = 200
